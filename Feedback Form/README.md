@@ -30,6 +30,3 @@ A beautiful, responsive, and interactive feedback form built with Flask and mode
   - Flask
   - JSON for data storage
 
-## 📦 Installation
-
-1. Clone the repository: 
